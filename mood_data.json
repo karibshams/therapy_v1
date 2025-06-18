@@ -1,0 +1,22 @@
+[
+  {
+    "mood": "\ud83d\ude0a Great",
+    "energy": 3,
+    "anxiety": 5,
+    "triggers": [
+      "Health"
+    ],
+    "notes": "",
+    "timestamp": "2025-06-17T05:58:34.502563"
+  },
+  {
+    "mood": "\ud83d\ude22 Very Low",
+    "energy": 3,
+    "anxiety": 8,
+    "triggers": [
+      "Relationships"
+    ],
+    "notes": "",
+    "timestamp": "2025-06-17T06:12:09.671199"
+  }
+]

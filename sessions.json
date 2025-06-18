@@ -1,0 +1,91 @@
+{
+  "session_1": {
+    "id": "session_1",
+    "date": "2025-06-17 05:44:57",
+    "messages": [],
+    "duration": 0,
+    "status": "active"
+  },
+  "session_2": {
+    "id": "session_2",
+    "date": "2025-06-17 05:49:05",
+    "messages": [],
+    "duration": 0,
+    "status": "active"
+  },
+  "session_3": {
+    "id": "session_3",
+    "date": "2025-06-17 05:51:25",
+    "messages": [],
+    "duration": 0,
+    "status": "active"
+  },
+  "session_4": {
+    "id": "session_4",
+    "date": "2025-06-17 05:57:42",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hlw",
+        "timestamp": "2025-06-17T05:59:25.493322",
+        "emotion": null
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you for sharing with me. I'm here to listen and support you. Can you tell me more about what's been on your mind lately? Sometimes talking through our thoughts and feelings can help us process them better.",
+        "timestamp": "2025-06-17T05:59:25.494828",
+        "emotion": null
+      }
+    ],
+    "duration": 0,
+    "status": "active"
+  },
+  "session_5": {
+    "id": "session_5",
+    "date": "2025-06-17 06:06:24",
+    "messages": [],
+    "duration": 0,
+    "status": "active"
+  },
+  "session_6": {
+    "id": "session_6",
+    "date": "2025-06-17 23:29:50",
+    "messages": [],
+    "duration": 0,
+    "status": "active"
+  },
+  "session_7": {
+    "id": "session_7",
+    "date": "2025-06-18 00:33:07",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hlw",
+        "timestamp": "2025-06-18T00:37:02.020833",
+        "emotion": null
+      },
+      {
+        "role": "assistant",
+        "content": "I'm sorry, I'm having trouble processing your message right now. Error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+        "timestamp": "2025-06-18T00:37:02.021934",
+        "emotion": null
+      }
+    ],
+    "duration": 0,
+    "status": "active"
+  },
+  "session_8": {
+    "id": "session_8",
+    "date": "2025-06-18 06:37:46",
+    "messages": [],
+    "duration": 0,
+    "status": "active"
+  },
+  "session_9": {
+    "id": "session_9",
+    "date": "2025-06-19 01:52:27",
+    "messages": [],
+    "duration": 0,
+    "status": "active"
+  }
+}
